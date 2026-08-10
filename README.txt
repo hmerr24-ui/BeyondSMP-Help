@@ -1,0 +1,1 @@
+Beyond SMP Help Centre V1. Initial responsive Help Centre with 13 categories, search, navigation and placeholder article pages.
