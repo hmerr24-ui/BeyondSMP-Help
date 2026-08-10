@@ -1,11 +1,18 @@
-Beyond SMP Help Centre — V2
+Beyond SMP Help Centre — V2 FIXED
 
-Updated:
+Populated:
 - Getting Started
 - Paradis & Factions
 - Bending
-- Rules
-- Contact Staff
+- Rules (links to rules.beyond-smp.com)
+- Contact Staff (Discord ticket instructions)
 
-Rules intentionally links to https://rules.beyond-smp.com even though that site is not live yet.
-Other categories remain placeholders until their exact server mechanics/commands are provided.
+Still placeholders:
+- Claims & Properties
+- Teams & Parties
+- Titans
+- Commands
+- Troubleshooting
+- World & Locations
+- Ranks & Roles
+- Mods & Modpack
